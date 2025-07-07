@@ -1,6 +1,3 @@
-Bien sûr ! Voici un **README.md complet** et professionnel pour ton projet **Console Task Manager**, prêt à être intégré dans ton dépôt GitHub :
-
----
 
 ```markdown
 # 🧠 Console Task Manager – Projet .NET en C#
