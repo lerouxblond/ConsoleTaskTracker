@@ -90,7 +90,7 @@ ConsoleTaskManager/
 │   └── MockUserInterface.cs
 │
 ├── Tests/
-│   └── TaskManagerTests.cs
+│   └── Mock TestProject
 │
 └── Program.cs
 ````
@@ -118,7 +118,7 @@ ConsoleTaskManager/
 ## ▶️ Lancer le projet
 
 ```bash
-git clone https://github.com/votre-utilisateur/ConsoleTaskManager.git
+git clone https://github.com/lerouxblond/ConsoleTaskTracker.git
 cd ConsoleTaskManager
 dotnet run
 ```
@@ -139,15 +139,8 @@ Ce projet est sous licence MIT – libre à vous de l’adapter, l’utiliser et
 
 ## ✨ Auteur
 
-Développé avec ❤️ par **\[Votre prénom Nom]**
-📫 Contact : \[[email@exemple.com](mailto:email@exemple.com)]
-🌐 Portfolio / LinkedIn : \[ajoutez ici]
+Développé avec ❤️ par **\[Ethan H]**
+📫 Contact : \[[EthanH.pro@hotmail.com](mailto:email@exemple.com)]
+🌐 Portfolio / LinkedIn : \[https://www.linkedin.com/in/ethan-houziaux/]
 
-```
-
----
-
-Souhaitez-tu aussi que je t’aide à rédiger un petit `CONTRIBUTING.md` ou un `LICENSE` ?
-
-Et dès que tu me donnes ton lien GitHub, je peux même t’aider à le formater dans le README.
 ```
