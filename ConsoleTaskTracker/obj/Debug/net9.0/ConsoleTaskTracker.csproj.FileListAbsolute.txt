@@ -1,0 +1,14 @@
+C:\Users\neyte\Documents\.Net\ConsoleTaskTracker\ConsoleTaskTracker\obj\Debug\net9.0\ConsoleTaskTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neyte\Documents\.Net\ConsoleTaskTracker\ConsoleTaskTracker\obj\Debug\net9.0\ConsoleTaskTracker.AssemblyInfoInputs.cache
+C:\Users\neyte\Documents\.Net\ConsoleTaskTracker\ConsoleTaskTracker\obj\Debug\net9.0\ConsoleTaskTracker.AssemblyInfo.cs
+C:\Users\neyte\Documents\.Net\ConsoleTaskTracker\ConsoleTaskTracker\obj\Debug\net9.0\ConsoleTaskTracker.csproj.CoreCompileInputs.cache
+C:\Users\neyte\Documents\.Net\ConsoleTaskTracker\ConsoleTaskTracker\bin\Debug\net9.0\ConsoleTaskTracker.exe
+C:\Users\neyte\Documents\.Net\ConsoleTaskTracker\ConsoleTaskTracker\bin\Debug\net9.0\ConsoleTaskTracker.deps.json
+C:\Users\neyte\Documents\.Net\ConsoleTaskTracker\ConsoleTaskTracker\bin\Debug\net9.0\ConsoleTaskTracker.runtimeconfig.json
+C:\Users\neyte\Documents\.Net\ConsoleTaskTracker\ConsoleTaskTracker\bin\Debug\net9.0\ConsoleTaskTracker.dll
+C:\Users\neyte\Documents\.Net\ConsoleTaskTracker\ConsoleTaskTracker\bin\Debug\net9.0\ConsoleTaskTracker.pdb
+C:\Users\neyte\Documents\.Net\ConsoleTaskTracker\ConsoleTaskTracker\obj\Debug\net9.0\ConsoleTaskTracker.dll
+C:\Users\neyte\Documents\.Net\ConsoleTaskTracker\ConsoleTaskTracker\obj\Debug\net9.0\refint\ConsoleTaskTracker.dll
+C:\Users\neyte\Documents\.Net\ConsoleTaskTracker\ConsoleTaskTracker\obj\Debug\net9.0\ConsoleTaskTracker.pdb
+C:\Users\neyte\Documents\.Net\ConsoleTaskTracker\ConsoleTaskTracker\obj\Debug\net9.0\ConsoleTaskTracker.genruntimeconfig.cache
+C:\Users\neyte\Documents\.Net\ConsoleTaskTracker\ConsoleTaskTracker\obj\Debug\net9.0\ref\ConsoleTaskTracker.dll
